@@ -1,2 +1,1 @@
-# SQL-retail-sales-analysis
-SQL-based Walmart sales analytics project using PostgreSQL and MySQL for business intelligence reporting and KPI analysis.
+<img width="1452" height="760" alt="image" src="https://github.com/user-attachments/assets/cd12779e-71be-45bc-ba5a-0dbccf48c237" />
